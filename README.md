@@ -1,11 +1,38 @@
-# Course CS50
+# CS50 Projects
 
-### The course covers the following concepts:
-- Development of web applications in Go in accordance with the design of the REST API.
-- Working with the gin-gonic/gin framework.
-- Clean Architecture approach when building application structure. Dependency Injection Technique.
-- Working with a Postgres database. Run from Docker. Generation of migration files.
-- Setting up the application using the spf13/viper library. Working with environment variables.
-- Working with the database using the sqlx library.
-- Registration and authentication. Working with JWT middleware.
-- Writing SQL queries.
+## Overview
+
+This repository contains my solutions and projects for Harvard's CS50 course. It includes various assignments and exercises covering topics such as algorithms, data structures, web development, and more.
+
+## Key Features
+
+- Problem Sets: Solutions to CS50 problem sets using C, Python, and web development technologies.
+- Projects: Completed larger projects that demonstrate key concepts learned throughout the course.
+- Learning Progress: A record of my progress and understanding of computer science fundamentals.
+
+## Technologies Used
+
+- C: For algorithmic problem sets.
+- Python: For data structures and advanced problem-solving.
+- HTML/CSS: For web development projects.
+- SQL: For database-related assignments.
+
+## Setup and Installation
+
+1. Clone this repository:
+
+```
+https://github.com/alexvlasov182/cs50.git
+```
+
+2. Navigate to individual project directories for specific instructions on running each project.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Contact
+
+For questions or feedback:
+
+- Email: drumlife182@gmail.com
