@@ -13,7 +13,6 @@ int main (int argc, string argv[])
     return 1;
   }
 
-
   // Define the key
   string key = argv[1];
 
@@ -27,7 +26,6 @@ int main (int argc, string argv[])
     }
   }
  
-
   // Get plaintext from user
   string plaintext = get_string("plaintext: ");
 
